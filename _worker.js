@@ -2956,7 +2956,7 @@ const hashDictionary = {
     "Eu5tXAy7dx6HZV7Et9pUBg==": "https://sc.id-tv.kz",
     "Q7xU9oZ4g01WLg6/RGicHQ==": "http://62.32.67.187:1935/WEB_TBN/TBN.stream",
     "GUahU1xqN/oegZjkCXCdbA==": "http://185.97.150.19:8082",
-    "Mjt4cNbQXzW9fhTHmLJVFg==": "http://www.rtvcdn.com.au:8082",
+    "Mjt4cNbQXzW9fhTHmLJVFg==": "http://www.rtvcdn.com.au:8082"
 };
 
 const cn_hostnames = [
