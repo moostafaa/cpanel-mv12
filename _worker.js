@@ -862,9 +862,7 @@ function createVLESSSub(userID_Path, hostName) {
 
 	return output.join('\n');
 }
-const hashDictionary = {
-    "3vxLCPNMwK/dyohagf8fAg==": "https://hls.yourtime.live/hls"
-};
+
 const cn_hostnames = [
 	'weibo.com',                // Weibo - A popular social media platform
 	'www.baidu.com',            // Baidu - The largest search engine in China
